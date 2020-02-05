@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\0_Documents\\_University_IT_WORK\\3_Year\\Artificial Intelligence\\Coursework\\Solution1\\AI_Coursework\\AI_Coursework.csproj": {}
+  },
+  "projects": {
+    "F:\\0_Documents\\_University_IT_WORK\\3_Year\\Artificial Intelligence\\Coursework\\Solution1\\AI_Coursework\\AI_Coursework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\0_Documents\\_University_IT_WORK\\3_Year\\Artificial Intelligence\\Coursework\\Solution1\\AI_Coursework\\AI_Coursework.csproj",
+        "projectName": "AI_Coursework",
+        "projectPath": "F:\\0_Documents\\_University_IT_WORK\\3_Year\\Artificial Intelligence\\Coursework\\Solution1\\AI_Coursework\\AI_Coursework.csproj",
+        "packagesPath": "C:\\Users\\Shelob\\.nuget\\packages\\",
+        "outputPath": "F:\\0_Documents\\_University_IT_WORK\\3_Year\\Artificial Intelligence\\Coursework\\Solution1\\AI_Coursework\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shelob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

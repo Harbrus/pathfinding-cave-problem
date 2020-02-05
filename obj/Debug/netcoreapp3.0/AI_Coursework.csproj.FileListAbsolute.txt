@@ -1,0 +1,11 @@
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\bin\Debug\netcoreapp3.0\AI_Coursework.exe
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\bin\Debug\netcoreapp3.0\AI_Coursework.deps.json
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\bin\Debug\netcoreapp3.0\AI_Coursework.runtimeconfig.json
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\bin\Debug\netcoreapp3.0\AI_Coursework.runtimeconfig.dev.json
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\bin\Debug\netcoreapp3.0\AI_Coursework.dll
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\bin\Debug\netcoreapp3.0\AI_Coursework.pdb
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\obj\Debug\netcoreapp3.0\AI_Coursework.csprojAssemblyReference.cache
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\obj\Debug\netcoreapp3.0\AI_Coursework.AssemblyInfoInputs.cache
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\obj\Debug\netcoreapp3.0\AI_Coursework.AssemblyInfo.cs
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\obj\Debug\netcoreapp3.0\AI_Coursework.dll
+F:\0_Documents\_University_IT_WORK\3_Year\Artificial Intelligence\Coursework\Solution1\AI_Coursework\obj\Debug\netcoreapp3.0\AI_Coursework.pdb
