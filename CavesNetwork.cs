@@ -7,10 +7,10 @@ namespace AI_Coursework
     public class CavesNetwork
     {
         private Cave[] caves;
-        private bool[,] cavesConnections;
         private int numberOfCaves;
         private string[] cavesData;
         private int ID = 1;
+
         public CavesNetwork(string[] caves)
         {
             this.cavesData = caves;

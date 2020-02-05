@@ -18,16 +18,8 @@ namespace AI_Coursework
                     string[] caves = data.Split(',');
 
                     CavesNetwork cavesNetwork = new CavesNetwork(caves);
-                    PrintResults(Pathfinding.Findpath(cavesNetwork.Caves[0], cavesNetwork.Caves[cavesNetwork.NumberOfCaves - 1]), args);
+                    PrintResults(Pathfinding.Findpath(cavesNetwork.Caves[0], cavesNetwork.Caves[cavesNetwork.NumberOfCaves - 1], cavesNetwork.NumberOfCaves), args);
                 }
-                else
-                {
-                    Console.WriteLine("Cave file must not be empty. Please provide a new cave file.");
-                }
-            }
-            else
-            {
-                Console.WriteLine("Please pass a valid argument as cavefile next time. Run the program again.");
             }
         }
         static string LoadCavesFromArgs(string[] args)
@@ -43,7 +35,6 @@ namespace AI_Coursework
             catch (FileNotFoundException)
             {
                 // if file not found
-                Console.WriteLine("File not found. Try again.");
                 return null;
             }
 

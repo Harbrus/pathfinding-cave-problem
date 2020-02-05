@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Coursework", "AI_Coursework.csproj", "{AB691516-4020-468B-A5F2-518BB5455256}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI_Coursework", "AI_Coursework.csproj", "{F5BA0555-09C5-44D2-92BF-2E8648DF8470}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AB691516-4020-468B-A5F2-518BB5455256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AB691516-4020-468B-A5F2-518BB5455256}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AB691516-4020-468B-A5F2-518BB5455256}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AB691516-4020-468B-A5F2-518BB5455256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5BA0555-09C5-44D2-92BF-2E8648DF8470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BA0555-09C5-44D2-92BF-2E8648DF8470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BA0555-09C5-44D2-92BF-2E8648DF8470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BA0555-09C5-44D2-92BF-2E8648DF8470}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25276CB7-D273-4D7F-862A-B44E0E9EB86B}
+		SolutionGuid = {5DBB94B5-E5A2-4864-89C6-F93265BCEDB4}
 	EndGlobalSection
 EndGlobal

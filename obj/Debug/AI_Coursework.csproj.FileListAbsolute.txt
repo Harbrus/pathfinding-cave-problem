@@ -1,0 +1,6 @@
+C:\Users\Shelob\Desktop\AI_Coursework\obj\Debug\AI_Coursework.csprojAssemblyReference.cache
+C:\Users\Shelob\Desktop\AI_Coursework\bin\Debug\AI_Coursework.exe.config
+C:\Users\Shelob\Desktop\AI_Coursework\bin\Debug\AI_Coursework.exe
+C:\Users\Shelob\Desktop\AI_Coursework\bin\Debug\AI_Coursework.pdb
+C:\Users\Shelob\Desktop\AI_Coursework\obj\Debug\AI_Coursework.exe
+C:\Users\Shelob\Desktop\AI_Coursework\obj\Debug\AI_Coursework.pdb

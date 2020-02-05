@@ -8,28 +8,15 @@ namespace AI_Coursework
     {
         private static List<int> path;
 
-        public static List<int> Findpath(Cave startCave, Cave endCave)
+        public static List<int> Findpath(Cave startCave, Cave endCave, int numberOfCaves)
         {
-            List<Cave> openList = new List<Cave>();
+            Heap<Cave> openList = new Heap<Cave>(numberOfCaves);
             HashSet<Cave> visitedSet = new HashSet<Cave>();
             openList.Add(startCave);
 
-            while (openList.Count > 0)
+            while (openList.CurrenNoItems > 0)
             {
-                Cave current = openList[0];
-
-                for (int i = 0; i < openList.Count; i++)
-                {
-                    if (openList[i].FCost < current.FCost || openList[i].FCost == current.FCost)
-                    {
-                        if (openList[i].HCost < current.HCost)
-                        {
-                            current = openList[i];
-                        }
-                    }
-                }
-
-                openList.Remove(current);
+                Cave current = openList.PopItem();
                 visitedSet.Add(current);
 
                 if (current == endCave)
@@ -39,7 +26,7 @@ namespace AI_Coursework
                     return path;
                 }
 
-                if(current.Neighbours == null)
+                if(current.Neighbours.Count == 0)
                 {
                     continue;
                 }
@@ -51,7 +38,7 @@ namespace AI_Coursework
                         continue;
                     }
 
-                    double newGCostNeighbour = current.GCost + CalculateDistance(neighbour, current);
+                    double newGCostNeighbour = current.GCost + CalculateDistance(current, neighbour);
 
                     if (newGCostNeighbour < neighbour.GCost || !openList.Contains(neighbour))
                     {
@@ -64,6 +51,7 @@ namespace AI_Coursework
                     }
                 }
             }
+
             return path;
         }
 
